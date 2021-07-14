@@ -11,25 +11,24 @@ Typescript, React, Next.js, emotion, Axios, Passport, Bootpay, React-slick
 
 ### 참여 인원
 <table>
-  <thead>
-    <tr>
-      <th>PL/PL</th>
-      <th>Design</th>
-      <th>Front-end</th>
-      <th>Back-end</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
+      <th scope="row">PM/PL</th>
       <td>김태원</td>
-      <td>조수경</td>
-      <td>박진주<br/><a href="https://github.com/perlpark" target="_blank">@perlpark</a></td>
-      <td>강유민<br/><a href="https://github.com/kangum99" target="_blank">@kangum99</a></td>
+      <td>배문형<br/><a href="https://github.com/m00nlygreat" target="_blank">@m00nlygreat</a></td>
     </tr>
     <tr>
-      <td>배문형<br/><a href="https://github.com/m00nlygreat" target="_blank">@m00nlygreat</a></td>
-      <td></td>
+      <th>Design</th>
+      <td colspan="2">조수경</td>
+    </tr>
+    <tr>
+      <th>Front-end</th>
+      <td>박진주<br/><a href="https://github.com/perlpark" target="_blank">@perlpark</a></td>
       <td>박영민<br/><a href="https://github.com/ympark99" target="_blank">@ympark99</a></td>
+    </tr>
+    <tr>
+      <th>Back-end</th>
+      <td>강유민<br/><a href="https://github.com/kangum99" target="_blank">@kangum99</a></td>
       <td>박진혁<br/><a href="https://github.com/criel2019" target="_blank">@criel2019</a></td>
     </tr>
   </tbody>
